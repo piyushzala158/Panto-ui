@@ -1,0 +1,8 @@
+@import './App.scss';
+
+.hero{
+    background:linear-gradient(180deg, rgba(255, 255, 255, 0) 86.13%, #FFFFFF 100%), url('../images/hero-background.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
